@@ -1,0 +1,17 @@
+# Unreal Engine build folders
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Visual Studio / Rider / Xcode
+.vs/
+.vscode/
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
+
+# OS-specific junk
+.DS_Store
+Thumbs.db
